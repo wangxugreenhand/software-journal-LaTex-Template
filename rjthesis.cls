@@ -3,7 +3,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%加载类
-\LoadClass[twoside, UTF8]{ctexart}  % twoside可以设计奇偶不一样的页眉
+\LoadClass[oneside, UTF8]{ctexart}  % twoside可以设计奇偶不一样的页眉
 
 %%%%%%%%%%%%%%%%%%%%%%%%%加载包
 \RequirePackage{geometry}           % 定制页边距
