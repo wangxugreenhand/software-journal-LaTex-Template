@@ -6,7 +6,7 @@
 \LoadClass[oneside, UTF8]{ctexart}  % twoside可以设计奇偶不一样的页眉
 
 %%%%%%%%%%%%%%%%%%%%%%%%%加载包
-\RequirePackage{geometry}           % 定制页边距
+\RequirePackage[bottom=3.5cm]{geometry}           % 定制页边距
 \RequirePackage{fancyhdr}           % 设置页眉页脚
 \RequirePackage{xeCJK}              % 引入中文支持
 \RequirePackage{CJKnumb}            % 引入中文支持
